@@ -59,7 +59,7 @@ spring:
     admin:
       client:
         enabled: true
-        url: "https://127.0.0.1:4444"
+        url: "http://127.0.0.1:4444"
 
 logging:
   config: "classpath:log4j2.properties"
